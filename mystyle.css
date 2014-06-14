@@ -1,0 +1,36 @@
+
+
+.field{
+    width: 98px;
+    height: 98px;
+    text-indent: -90000px;
+    border: solid orange 1px;
+}
+
+.mainframe{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 29px;
+    width: 460px;
+    height: 460px;
+    background-color: orange;
+}
+.header{
+    height: 90px;
+    background-color: coral;
+}
+.maincontain{
+    background-color: turquoise;
+}
+    
+.sidebar{
+    background-color: magenta;
+    height: 560px;
+} 
+
+.footer{
+    height:160px;
+    background-color: pink;
+}
+
+    
